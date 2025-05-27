@@ -10,6 +10,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 Front-end application that uses open-source APIs to display recycling information based on area code and item type.  
 Built during a hackathon hosted by **Rensselaer Polytechnic Institute**
@@ -17,9 +19,12 @@ Built during a hackathon hosted by **Rensselaer Polytechnic Institute**
 ---
 
 ### [Lucas Number Engine](https://github.com/Nerkled/SEProject)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-A computational engine built to efficiently calculate **Lucas Numbers**
+A computational engine built to calculate **Lucas Numbers**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ---
 
 ### Personal Website (WIP)
