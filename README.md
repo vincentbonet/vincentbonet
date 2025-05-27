@@ -1,7 +1,6 @@
 # Robert Bonet
 
-**Student / Developer – Senior Year CS**  
-Focused on clean code, open-source ethics, and privacy-forward design.
+**Student / Developer – Senior Year CS** 
 
 ---
 
