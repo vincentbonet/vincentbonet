@@ -1,6 +1,6 @@
 # Robert Bonet
 
-**Student / Developer – Senior Year CS** 
+**Student / Developer – Recent Graduate** 
 
 ---
 
@@ -39,10 +39,9 @@ A computational engine built to calculate **Lucas Numbers**
 
 ---
 
-### Personal Website (WIP)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+### MyCompiler (WIP)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-Personal website created using Jekyll
+Compiler built from scratch in C++ in order to learn the language and the components of a compiler.
 
 ---
