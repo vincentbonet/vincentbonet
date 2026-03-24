@@ -39,7 +39,7 @@ A computational engine built to calculate **Lucas Numbers**
 
 ---
 
-### MyCompiler (WIP)
+### [MyCompiler](https://github.com/vincentbonet/mycompiler) (WIP)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 Compiler built from scratch in C++ in order to learn the language and the components of a compiler.
