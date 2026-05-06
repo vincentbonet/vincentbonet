@@ -37,7 +37,7 @@ Built during a hackathon hosted by **Rensselaer Polytechnic Institute**
 A computational engine built to calculate **Lucas Numbers**
 
 ---
-### [LocalNY](https://github.com/vincentbonet/localny)
+### [LocalNY](https://github.com/vincentbonet/localny) (WIP)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
